@@ -1,6 +1,7 @@
-# lf_motif_477
-# Unknown
-# Derived from gnps_binned_005 ms2lda experiment id=191
+# NAME lf_motif_477
+# ANNOTATION Unknown
+# SHORT_ANNOTATION 487  207  538  109  469  loss 51  loss 69  loss 50  loss 93  loss 34
+# Derived from Louis Felix ms2lda experiment id=390
 loss_51.0375,0.225074473343863
 loss_69.0475,0.0647293657580535
 fragment_487.3325,0.0413762424382316

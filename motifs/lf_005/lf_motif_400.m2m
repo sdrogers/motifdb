@@ -1,6 +1,7 @@
-# lf_motif_400
-# DSF (dPE/IE or JE Group B)  loss of CO (42)
-# Derived from gnps_binned_005 ms2lda experiment id=191
+# NAME lf_motif_400
+# ANNOTATION DSF (dPE/IE or JE Group B)  loss of CO (42)
+# SHORT_ANNOTATION 355  356  295  267  loss 42
+# Derived from Louis Felix ms2lda experiment id=390
 fragment_355.1875,0.787267541336748
 fragment_356.1925,0.0839072913311378
 fragment_295.1675,0.0239692463192541

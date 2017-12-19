@@ -1,4 +1,5 @@
-# mb_motif_23
-# Fragment indicative for aromatic compounds related to methylbenzene substructure (C7H7 fragment)
-# Derived from massbank_binned_005 ms2lda experiment id=346
-fragment_91.0525,1.0
+# NAME mb_motif_23
+# ANNOTATION [Pentose (C5-sugar)-H2O] related loss –  indicative for conjugated pentose sugar - EF fits
+# SHORT_ANNOTATION [Pentose (C5-sugar)-H2O] related loss –  indicative for conjugated pentose sugar - EF fits
+# COMMENT Derived from massbank_binned_005 ms2lda experiment id=190
+loss_132.0425,1.0

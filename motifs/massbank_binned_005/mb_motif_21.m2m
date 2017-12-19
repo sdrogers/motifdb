@@ -1,7 +1,6 @@
-# mb_motif_21
-# Fragments indicative for asparagine substructure (MzCloud) – prevalent in Beer 3
-# Derived from massbank_binned_005 ms2lda experiment id=346
-fragment_74.0225,0.427841864936313
-fragment_88.0375,0.374369142033165
-fragment_87.0575,0.132840663302091
-fragment_70.0275,0.0649483297284307
+# NAME mb_motif_21
+# ANNOTATION Fragments indicative adenine (C5H6N5) substructure
+# SHORT_ANNOTATION Adenine
+# COMMENT Derived from massbank_binned_005 ms2lda experiment id=190
+fragment_136.0625,0.945871498738882
+fragment_119.0375,0.0541285012611178

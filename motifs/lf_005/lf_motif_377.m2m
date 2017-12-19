@@ -1,6 +1,7 @@
-# lf_motif_377
-# diterpene dPE/IE 331  313  285  277  267 with benzoyl cation 105
-# Derived from gnps_binned_005 ms2lda experiment id=191
+# NAME lf_motif_377
+# ANNOTATION diterpene dPE/IE 331  313  285  277  267 with benzoyl cation 105
+# SHORT_ANNOTATION diterpene dPE/IE 331  313  285  277  267 with benzoyl cation 105
+# Derived from Louis Felix ms2lda experiment id=390
 fragment_331.1925,0.106959660386356
 fragment_285.1875,0.0973981959270318
 fragment_313.1825,0.0951064444266994

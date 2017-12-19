@@ -1,6 +1,7 @@
-# lf_motif_199
-# DSF (PE or JE Group C)
-# Derived from gnps_binned_005 ms2lda experiment id=191
+# NAME lf_motif_199
+# ANNOTATION DSF (PE or JE Group C)
+# SHORT_ANNOTATION 311  293  265  283  312  275  247  371  237  251
+# Derived from Louis Felix ms2lda experiment id=390
 fragment_311.1625,0.360919662670605
 fragment_293.1525,0.125698381195181
 fragment_265.1575,0.0621183514797825

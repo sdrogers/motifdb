@@ -1,5 +1,7 @@
-# mb_motif_38
-"# Fragment of C5H10NO2 and loss of C5H9NO2 (in beer, likely to be [proline-H2O] - indicative for conjugated proline)"
-# Derived from massbank_binned_005 ms2lda experiment id=346
-fragment_116.0725,0.823553235532355
-loss_115.0625,0.176446764467645
+# NAME mb_motif_38
+# ANNOTATION Fragments indicative for dihydroxylated benzene ring substructure (MzCloud) – C6H5O2 fragment corresponds to positively charged fragment with two hydroxyl groups.
+# SHORT_ANNOTATION Fragments indicative for dihydroxylated benzene ring substructure (MzCloud) – C6H5O2 fragment corresponds to positively charged fragment with two hydroxyl groups.
+# COMMENT Derived from massbank_binned_005 ms2lda experiment id=190
+fragment_81.0325,0.770386952350495
+fragment_53.0375,0.223892264506272
+fragment_109.0275,0.00572078314323277

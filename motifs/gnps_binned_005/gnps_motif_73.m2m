@@ -1,6 +1,7 @@
-# gnps_motif_73
-# oxy]acetyl}amino)methyl]cyclohexanecarboxylic acid related Mass2Motif (losses)
-# Derived from gnps_binned_005 ms2lda experiment id=191
+# NAME gnps_motif_73
+# ANNOTATION oxy]acetyl}amino)methyl]cyclohexanecarboxylic acid related Mass2Motif (losses)
+# SHORT_ANNOTATION oxy]acetyl}amino)methyl]cyclohexanecarboxylic acid related Mass2Motif (losses)
+# COMMENT Derived from gnps_binned_005 ms2lda experiment id=191
 loss_197.1075,0.268295877673727
 loss_185.1075,0.130556872646503
 loss_140.0825,0.0852894881057927

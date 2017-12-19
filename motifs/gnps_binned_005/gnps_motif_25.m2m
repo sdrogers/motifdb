@@ -1,6 +1,7 @@
-# gnps_motif_25
-# Indole substructure
-# Derived from gnps_binned_005 ms2lda experiment id=191
+# NAME gnps_motif_25
+# ANNOTATION Indole substructure
+# SHORT_ANNOTATION Indole substructure
+# COMMENT Derived from gnps_binned_005 ms2lda experiment id=191
 fragment_130.0675,0.344494763120565
 fragment_118.0675,0.0611628779486312
 fragment_144.0825,0.0560911336760128

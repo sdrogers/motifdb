@@ -1,6 +1,7 @@
-# lf_motif_180
-# 124  106  418  538  728  277  478  598  468  loss 120
-# Derived from gnps_binned_005 ms2lda experiment id=191
+# NAME lf_motif_180
+# ANNOTATION 124  106  418  538  728  277  478  598  468  loss 120
+# SHORT_ANNOTATION Unknown  Nic and Nic + H20 (106  124)
+# Derived from Louis Felix ms2lda experiment id=390
 fragment_124.0375,0.0956764235386241
 fragment_106.0275,0.0306997327698922
 fragment_418.1975,0.0268840586308243

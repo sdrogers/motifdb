@@ -1,4 +1,5 @@
-# gnps_motif_7
-# Small nitrogen containing fragment ion – often proline or ornithine derived – most abundant fragment in beer data
-# Derived from gnps_binned_005 ms2lda experiment id=191
+# NAME gnps_motif_7
+# ANNOTATION Small nitrogen containing fragment ion – often proline or ornithine derived – most abundant fragment in beer data
+# SHORT_ANNOTATION Small nitrogen containing fragment ion – often proline or ornithine derived – most abundant fragment in beer data
+# COMMENT Derived from gnps_binned_005 ms2lda experiment id=191
 fragment_70.0675,1.0

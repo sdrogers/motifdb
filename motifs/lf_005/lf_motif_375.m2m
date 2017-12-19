@@ -1,6 +1,7 @@
-# lf_motif_375
-# DSF (dPE/IE or JE Group B)
-# Derived from gnps_binned_005 ms2lda experiment id=191
+# NAME lf_motif_375
+# ANNOTATION DSF (dPE/IE or JE Group B)
+# SHORT_ANNOTATION 355  415  313  397  337  373  475  277  415  373
+# Derived from Louis Felix ms2lda experiment id=390
 fragment_355.1875,0.0734935435164003
 fragment_415.2125,0.0516378590083224
 fragment_313.1775,0.0490263939743545

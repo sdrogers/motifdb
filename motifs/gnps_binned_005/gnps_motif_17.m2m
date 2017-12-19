@@ -1,6 +1,7 @@
-# gnps_motif_17
-"# C4H8 loss indicative for saturated C4-alkyl substructure (often tert-butyl group or loss from 8,8-Trimethyl-2-oxo-9,10-dihydro-2H,8H-pyrano[2,3-f]chromen-5-yl substructure)"
-# Derived from gnps_binned_005 ms2lda experiment id=191
+# NAME gnps_motif_17
+# ANNOTATION C4H8 loss indicative for saturated C4-alkyl substructure (often tert-butyl group or loss from 8 8-Trimethyl-2-oxo-9 10-dihydro-2H 8H-pyrano[2 3-f]chromen-5-yl substructure)
+# SHORT_ANNOTATION C4H8 loss indicative for saturated C4-alkyl substructure (often tert-butyl group or loss from 8 8-Trimethyl-2-oxo-9 10-dihydro-2H 8H-pyrano[2 3-f]chromen-5-yl substructure)
+# COMMENT Derived from gnps_binned_005 ms2lda experiment id=191
 loss_56.0625,0.372743927239409
 fragment_107.0625,0.0342395715662293
 loss_55.0575,0.033659691900676

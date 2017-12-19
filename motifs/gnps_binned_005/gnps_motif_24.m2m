@@ -1,6 +1,7 @@
-# gnps_motif_24
-#  Fragments indicative for tyrosine related substructure (MzCloud)
-# Derived from gnps_binned_005 ms2lda experiment id=191
+# NAME gnps_motif_24
+# ANNOTATION  Fragments indicative for tyrosine related substructure (MzCloud)
+# SHORT_ANNOTATION  Fragments indicative for tyrosine related substructure (MzCloud)
+# COMMENT Derived from gnps_binned_005 ms2lda experiment id=191
 fragment_123.0425,0.314019527914024
 fragment_139.0375,0.136032349367752
 loss_152.0475,0.125581423909714

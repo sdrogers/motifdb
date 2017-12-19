@@ -1,6 +1,7 @@
-# gnps_motif_41
-# N-acetyl-4-piperidinecarboxylic acid substructure
-# Derived from gnps_binned_005 ms2lda experiment id=191
+# NAME gnps_motif_41
+# ANNOTATION N-acetyl-4-piperidinecarboxylic acid substructure
+# SHORT_ANNOTATION N-acetyl-4-piperidinecarboxylic acid substructure
+# COMMENT Derived from gnps_binned_005 ms2lda experiment id=191
 fragment_142.0875,0.173625825747924
 fragment_128.0725,0.157342563561928
 loss_157.0725,0.143559958679041

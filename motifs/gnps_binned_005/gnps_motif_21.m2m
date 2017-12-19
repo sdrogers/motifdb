@@ -1,6 +1,7 @@
-# gnps_motif_21
-# Fragments indicative for ethylphenol substructure (i.e. resulting from Tyramine – MzCloud)
-# Derived from gnps_binned_005 ms2lda experiment id=191
+# NAME gnps_motif_21
+# ANNOTATION Fragments indicative for ethylphenol substructure (i.e. resulting from Tyramine – MzCloud)
+# SHORT_ANNOTATION Fragments indicative for ethylphenol substructure (i.e. resulting from Tyramine – MzCloud)
+# COMMENT Derived from gnps_binned_005 ms2lda experiment id=191
 fragment_121.0625,0.617444825463818
 fragment_103.0525,0.154066649081157
 fragment_53.0375,0.120478325859492

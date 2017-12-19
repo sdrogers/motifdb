@@ -1,6 +1,7 @@
-# lf_motif_182
-# Diterp 535  353  311  293 
-# Derived from gnps_binned_005 ms2lda experiment id=191
+# NAME lf_motif_182
+# ANNOTATION Diterp 535  353  311  293 
+# SHORT_ANNOTATION Diterp 535  353  311  293 
+# Derived from Louis Felix ms2lda experiment id=390
 fragment_535.2325,0.0809684156419538
 fragment_311.1625,0.0638629363817168
 fragment_293.1525,0.0629032264004295

@@ -1,6 +1,7 @@
-# lf_motif_392
-# Loss of phenylgroup 77
-# Derived from gnps_binned_005 ms2lda experiment id=191
+# NAME lf_motif_392
+# ANNOTATION Loss of phenylgroup 77
+# SHORT_ANNOTATION loss 77   loss 76
+# Derived from Louis Felix ms2lda experiment id=390
 loss_77.0475,0.833979743712602
 loss_76.0425,0.155425543421706
 loss_95.0625,0.00530695843855811

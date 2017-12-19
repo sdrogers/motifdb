@@ -1,6 +1,7 @@
-# gnps_motif_23
-# Desosamine [deoxyaminosugar found in macrolides]
-# Derived from gnps_binned_005 ms2lda experiment id=191
+# NAME gnps_motif_23
+# ANNOTATION Desosamine [deoxyaminosugar found in macrolides]
+# SHORT_ANNOTATION Desosamine [deoxyaminosugar found in macrolides]
+# COMMENT Derived from gnps_binned_005 ms2lda experiment id=191
 loss_158.0925,0.0849559915686919
 fragment_258.0675,0.0476760751582414
 fragment_158.1175,0.0433655734476464

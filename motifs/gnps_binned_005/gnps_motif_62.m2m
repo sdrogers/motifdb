@@ -1,6 +1,7 @@
-# gnps_motif_62
-# 10-Deacetylbaccatin-III related substructure
-# Derived from gnps_binned_005 ms2lda experiment id=191
+# NAME gnps_motif_62
+# ANNOTATION 10-Deacetylbaccatin-III related substructure
+# SHORT_ANNOTATION 10-Deacetylbaccatin-III related substructure
+# COMMENT Derived from gnps_binned_005 ms2lda experiment id=191
 fragment_327.1575,0.0363579317465137
 fragment_509.2175,0.0315345586988338
 fragment_309.1475,0.0267150949488104

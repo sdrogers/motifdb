@@ -1,6 +1,7 @@
-# gnps_motif_26
-"# 6-oxo-7,11-diazatricyclo[7.3.1.0~2,7~]trideca-2,4-diene-11-carboxamide substructure"
-# Derived from gnps_binned_005 ms2lda experiment id=191
+# NAME gnps_motif_26
+# ANNOTATION 6-oxo-7 11-diazatricyclo[7.3.1.0~2 7~]trideca-2 4-diene-11-carboxamide substructure
+# SHORT_ANNOTATION 6-oxo-7 11-diazatricyclo[7.3.1.0~2 7~]trideca-2 4-diene-11-carboxamide substructure
+# COMMENT Derived from gnps_binned_005 ms2lda experiment id=191
 fragment_217.0975,0.13978417117128
 fragment_160.0775,0.120205463850739
 fragment_146.0625,0.0533907806069323

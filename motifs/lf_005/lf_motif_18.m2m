@@ -1,6 +1,7 @@
-# lf_motif_18
-# m/z 203  189
-# Derived from gnps_binned_005 ms2lda experiment id=191
+# NAME lf_motif_18
+# ANNOTATION m/z 203  189
+# SHORT_ANNOTATION m/z 203  189
+# Derived from Louis Felix ms2lda experiment id=390
 fragment_203.1775,0.201435476327721
 fragment_189.1625,0.164472617186522
 fragment_175.1475,0.0477615514029256

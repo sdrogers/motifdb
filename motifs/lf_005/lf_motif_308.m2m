@@ -1,6 +1,7 @@
-# lf_motif_308
-# DSF (PE or JE Group C)  benzoyl cation (m/z 105)
-# Derived from gnps_binned_005 ms2lda experiment id=191
+# NAME lf_motif_308
+# ANNOTATION DSF (PE or JE Group C)  benzoyl cation (m/z 105)
+# SHORT_ANNOTATION 311  105  293  265  329  283  415  433  159  269
+# Derived from Louis Felix ms2lda experiment id=390
 fragment_311.1625,0.107894200351208
 fragment_105.0325,0.0740072946798556
 fragment_293.1525,0.0728373426336964

@@ -1,6 +1,7 @@
-# gnps_motif_34
-"# 1,3-dihydro-2-benzofuran-1-yl substructure"
-# Derived from gnps_binned_005 ms2lda experiment id=191
+# NAME gnps_motif_34
+# ANNOTATION 1 3-dihydro-2-benzofuran-1-yl substructure
+# SHORT_ANNOTATION 1 3-dihydro-2-benzofuran-1-yl substructure
+# COMMENT Derived from gnps_binned_005 ms2lda experiment id=191
 fragment_133.0275,0.321438365443151
 fragment_256.0975,0.0962696702415571
 fragment_260.1625,0.0699084513662462

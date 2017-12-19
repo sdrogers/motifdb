@@ -1,6 +1,7 @@
-# gnps_motif_0
-# Methoxylated benzene substructure
-# Derived from gnps_binned_005 ms2lda experiment id=191
+# NAME gnps_motif_0
+# ANNOTATION Methoxylated benzene substructure
+# SHORT_ANNOTATION Methoxylated benzene substructure
+# COMMENT Derived from gnps_binned_005 ms2lda experiment id=191
 loss_58.0425,0.0808485553699553
 loss_76.0525,0.049573799503766
 loss_30.0475,0.0414202189262955

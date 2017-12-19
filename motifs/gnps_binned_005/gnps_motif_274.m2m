@@ -1,6 +1,7 @@
-# gnps_motif_274
-"# 3-oxo-delta-1,4-progestogin based steroid related Mass2Motif"
-# Derived from gnps_binned_005 ms2lda experiment id=191
+# NAME gnps_motif_274
+# ANNOTATION 3-oxo-delta-1 4-progestogin based steroid related Mass2Motif
+# SHORT_ANNOTATION 3-oxo-delta-1 4-progestogin based steroid
+# COMMENT Derived from gnps_binned_005 ms2lda experiment id=191
 fragment_171.0775,0.02547081112022
 fragment_147.0775,0.0211784441885006
 fragment_263.1425,0.018382888512544

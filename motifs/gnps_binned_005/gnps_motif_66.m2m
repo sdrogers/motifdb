@@ -1,6 +1,7 @@
-# gnps_motif_66
-# Loss of [hexose-H2O] – indication of hexose conjugation (for example glucose)
-# Derived from gnps_binned_005 ms2lda experiment id=191
+# NAME gnps_motif_66
+# ANNOTATION Loss of [hexose-H2O] – indication of hexose conjugation (for example glucose)
+# SHORT_ANNOTATION Loss of [hexose-H2O] – indication of hexose conjugation (for example glucose)
+# COMMENT Derived from gnps_binned_005 ms2lda experiment id=191
 loss_162.0525,0.290574606505641
 fragment_245.1175,0.0287743079090541
 fragment_227.1075,0.0224667278307701

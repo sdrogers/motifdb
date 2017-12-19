@@ -1,6 +1,8 @@
-# mb_motif_20
-# Fragments indicative for [phenylalanine-CHOOH] based substructure
-# Derived from massbank_binned_005 ms2lda experiment id=346
-fragment_120.0825,0.960131989332369
-fragment_91.0525,0.0371106992722506
-fragment_103.0525,0.00275731139538037
+# NAME mb_motif_20
+# ANNOTATION Fragments indicative for cinnamic/hydroxycinnamic acid substructure
+# SHORT_ANNOTATION Fragments indicative for cinnamic/hydroxycinnamic acid substructure
+# COMMENT Derived from massbank_binned_005 ms2lda experiment id=190
+fragment_147.0425,0.40748031496063
+fragment_119.0475,0.348796612687565
+fragment_91.0525,0.17831674342594
+fragment_65.0375,0.0654063289258654

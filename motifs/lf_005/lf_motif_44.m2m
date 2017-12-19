@@ -1,6 +1,7 @@
-# lf_motif_44
-# Unknown  DSF side chain?
-# Derived from gnps_binned_005 ms2lda experiment id=191
+# NAME lf_motif_44
+# ANNOTATION Unknown  DSF side chain?
+# SHORT_ANNOTATION 351  263  164  162  176  104  102  loss 134  loss 74  loss 116
+# Derived from Louis Felix ms2lda experiment id=390
 loss_134.0575,0.0817422256475012
 loss_74.0375,0.0675438804745118
 fragment_351.1575,0.0383770071184397

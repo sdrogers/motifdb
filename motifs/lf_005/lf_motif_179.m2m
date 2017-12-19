@@ -1,6 +1,7 @@
-# lf_motif_179
-# diterpene phorbol ester (PE)? 311  293  283  275  265
-# Derived from gnps_binned_005 ms2lda experiment id=191
+# NAME lf_motif_179
+# ANNOTATION diterpene phorbol ester (PE)? 311  293  283  275  265
+# SHORT_ANNOTATION diterpene phorbol ester (PE)? 311  293  283  275  265
+# Derived from Louis Felix ms2lda experiment id=390
 fragment_311.1675,0.291214276045483
 fragment_293.1525,0.125494426995354
 fragment_265.1575,0.0513076820599553

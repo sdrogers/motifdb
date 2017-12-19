@@ -1,4 +1,5 @@
-# mb_motif_6
-# Fragment ion indicative for the presence of a phosphate group  (H4O4P)
-# Derived from massbank_binned_005 ms2lda experiment id=346
-fragment_98.9825,1.0
+# NAME mb_motif_6
+# ANNOTATION Amine loss - Indicative for free NH2 group in fragmented molecule
+# SHORT_ANNOTATION Amine loss - Indicative for free NH2 group in fragmented molecule
+# COMMENT Derived from massbank_binned_005 ms2lda experiment id=190
+loss_17.0275,1.0

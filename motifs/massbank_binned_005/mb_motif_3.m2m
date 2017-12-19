@@ -1,4 +1,5 @@
-# mb_motif_3
-# [Pentose (C5-sugar)-H2O] related loss –  indicative for conjugated pentose sugar - EF fits
-# Derived from massbank_binned_005 ms2lda experiment id=346
-loss_132.0425,1.0
+# NAME mb_motif_3
+# ANNOTATION Small nitrogen containing fragment ion – often proline or ornithine derived – most abundant fragment in beer data
+# SHORT_ANNOTATION Small nitrogen containing fragment ion – often proline or ornithine derived – most abundant fragment in beer data
+# COMMENT Derived from massbank_binned_005 ms2lda experiment id=190
+fragment_70.0675,1.0

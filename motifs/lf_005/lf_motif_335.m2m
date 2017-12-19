@@ -1,6 +1,7 @@
-# lf_motif_335
-# DSF (JE Group A)
-# Derived from gnps_binned_005 ms2lda experiment id=191
+# NAME lf_motif_335
+# ANNOTATION DSF (JE Group A)
+# SHORT_ANNOTATION 345  299  327  467  346  281  317  257  309  loss 133
+# Derived from Louis Felix ms2lda experiment id=390
 fragment_345.1675,0.326389462076974
 fragment_299.1625,0.0767385505446553
 fragment_327.1575,0.0738957207628159

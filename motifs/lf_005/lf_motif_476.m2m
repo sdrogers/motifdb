@@ -1,6 +1,7 @@
-# lf_motif_476
-# 331  285  267
-# Derived from gnps_binned_005 ms2lda experiment id=191
+# NAME lf_motif_476
+# ANNOTATION 331  285  267
+# SHORT_ANNOTATION 331  285  267
+# Derived from Louis Felix ms2lda experiment id=390
 fragment_285.1825,0.100184519893271
 fragment_373.1975,0.0560358087314833
 fragment_267.1725,0.0452197443826818

@@ -1,6 +1,7 @@
-# lf_motif_2
-# Unknown
-# Derived from gnps_binned_005 ms2lda experiment id=191
+# NAME lf_motif_2
+# ANNOTATION Unknown
+# SHORT_ANNOTATION 461  425  443  253  407  426  444  loss 36
+# Derived from Louis Felix ms2lda experiment id=390
 fragment_461.3975,0.116637083568581
 fragment_425.3825,0.113727863461756
 fragment_443.3875,0.10159629410785

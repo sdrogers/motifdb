@@ -1,6 +1,7 @@
-# gnps_motif_367
-# Amphotericin related Mass2Motif
-# Derived from gnps_binned_005 ms2lda experiment id=191
+# NAME gnps_motif_367
+# ANNOTATION Amphotericin related Mass2Motif
+# SHORT_ANNOTATION Amphotericin related
+# COMMENT Derived from gnps_binned_005 ms2lda experiment id=191
 fragment_135.0575,0.0396877329633531
 loss_181.0975,0.0261814401256055
 fragment_672.442499999,0.025959233022368

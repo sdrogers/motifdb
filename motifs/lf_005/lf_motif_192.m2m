@@ -1,6 +1,7 @@
-# lf_motif_192
-# DSF Jatrophane Group A 299  281  263  253 with benzoyl cation 105
-# Derived from gnps_binned_005 ms2lda experiment id=191
+# NAME lf_motif_192
+# ANNOTATION DSF Jatrophane Group A 299  281  263  253 with benzoyl cation 105
+# SHORT_ANNOTATION DSF Jatrophane Group A 299  281  271  263  253 with benzoyl cation 105
+# Derived from Louis Felix ms2lda experiment id=390
 fragment_281.1875,0.33688259646581
 fragment_253.1925,0.0647597298683716
 fragment_105.0325,0.0632141824256886

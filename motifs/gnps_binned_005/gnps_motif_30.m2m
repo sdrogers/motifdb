@@ -1,6 +1,7 @@
-# gnps_motif_30
-"# Methylated [7 or 3,7] 2-(4-Hydroxy-6-oxotetrahydro-2H-pyran-2-yl)ethyl substructure"
-# Derived from gnps_binned_005 ms2lda experiment id=191
+# NAME gnps_motif_30
+# ANNOTATION Methylated [7 or 3 7] 2-(4-Hydroxy-6-oxotetrahydro-2H-pyran-2-yl)ethyl substructure
+# SHORT_ANNOTATION Methylated [7 or 3 7] 2-(4-Hydroxy-6-oxotetrahydro-2H-pyran-2-yl)ethyl substructure
+# COMMENT Derived from gnps_binned_005 ms2lda experiment id=191
 fragment_285.1875,0.059589247293044
 fragment_159.1175,0.0580272073688282
 fragment_199.1475,0.0576694788351052

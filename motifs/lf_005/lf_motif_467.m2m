@@ -1,6 +1,7 @@
-# lf_motif_467
-# diterpene dPE/IE 355  313  285  277
-# Derived from gnps_binned_005 ms2lda experiment id=191
+# NAME lf_motif_467
+# ANNOTATION diterpene dPE/IE 355  313  285  277
+# SHORT_ANNOTATION diterpene dPE/IE 355  313  285  277
+# Derived from Louis Felix ms2lda experiment id=390
 fragment_313.1825,0.767194433765274
 fragment_314.1825,0.0786286244533046
 fragment_251.1425,0.0138728632171664

@@ -1,6 +1,7 @@
-# gnps_motif_68
-# 6-oxo-6H-benzo[c]chromen-3-yl substructure
-# Derived from gnps_binned_005 ms2lda experiment id=191
+# NAME gnps_motif_68
+# ANNOTATION 6-oxo-6H-benzo[c]chromen-3-yl substructure
+# SHORT_ANNOTATION 6-oxo-6H-benzo[c]chromen-3-yl substructure
+# COMMENT Derived from gnps_binned_005 ms2lda experiment id=191
 fragment_225.0525,0.092368205015242
 fragment_213.0525,0.0585557344411345
 fragment_197.0575,0.0500631319603263

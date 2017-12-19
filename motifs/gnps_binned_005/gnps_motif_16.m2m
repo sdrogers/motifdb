@@ -1,6 +1,7 @@
-# gnps_motif_16
-# 4-(4-Methoxyphenyl)-2-oxo-2H-chromen-7-yl]oxy relared substructure (or isomeric variants)
-# Derived from gnps_binned_005 ms2lda experiment id=191
+# NAME gnps_motif_16
+# ANNOTATION 4-(4-Methoxyphenyl)-2-oxo-2H-chromen-7-yl]oxy relared substructure (or isomeric variants)
+# SHORT_ANNOTATION 4-(4-Methoxyphenyl)-2-oxo-2H-chromen-7-yl]oxy relared substructure (or isomeric variants)
+# COMMENT Derived from gnps_binned_005 ms2lda experiment id=191
 fragment_269.0825,0.12844972929758
 fragment_253.0875,0.0674674501272037
 fragment_224.0825,0.0529658270753362

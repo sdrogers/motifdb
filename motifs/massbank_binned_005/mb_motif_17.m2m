@@ -1,6 +1,6 @@
-# mb_motif_17
-# Fragments indicative for dihydroxylated benzene ring substructure (MzCloud) – C6H5O2 fragment corresponds to positively charged fragment with two hydroxyl groups.
-# Derived from massbank_binned_005 ms2lda experiment id=346
-fragment_81.0325,0.770386952350495
-fragment_53.0375,0.223892264506272
-fragment_109.0275,0.00572078314323277
+# NAME mb_motif_17
+# ANNOTATION Fragment ions indicative for pyroglutamic acid (pyroglutamate) or glutamine (both in MzCloud) – structure can be formed from glutamic acid (glutamate) in the mass spectrometer as well.
+# SHORT_ANNOTATION Fragment ions indicative for pyroglutamic acid (pyroglutamate) or glutamine (both in MzCloud) – structure can be formed from glutamic acid (glutamate) in the mass spectrometer as well.
+# COMMENT Derived from massbank_binned_005 ms2lda experiment id=190
+fragment_84.0425,0.893422585512118
+fragment_56.0475,0.106577414487882

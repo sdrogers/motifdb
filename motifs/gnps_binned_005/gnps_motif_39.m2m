@@ -1,6 +1,7 @@
-# gnps_motif_39
-# Hydroxy-Pregnenolone related fragments (not very specific - indicative for presence of steroid backbone)
-# Derived from gnps_binned_005 ms2lda experiment id=191
+# NAME gnps_motif_39
+# ANNOTATION Hydroxy-Pregnenolone related fragments (not very specific - indicative for presence of steroid backbone)
+# SHORT_ANNOTATION Hydroxy-Pregnenolone related fragments (not very specific - indicative for presence of steroid backbone)
+# COMMENT Derived from gnps_binned_005 ms2lda experiment id=191
 fragment_159.1175,0.0389787256813073
 fragment_133.1025,0.0384920731659646
 loss_132.1175,0.0309738099062002

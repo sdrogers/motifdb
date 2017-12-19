@@ -1,6 +1,7 @@
-# lf_motif_158
-# Loss of NH3 adducts in DSF
-# Derived from gnps_binned_005 ms2lda experiment id=191
+# NAME lf_motif_158
+# ANNOTATION Loss of NH3 adducts in DSF
+# SHORT_ANNOTATION loss 17  loss 16
+# Derived from Louis Felix ms2lda experiment id=390
 loss_17.0275,0.836492402875999
 loss_16.0225,0.154921087630377
 loss_35.0375,0.00612768905324301
