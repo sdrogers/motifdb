@@ -1,7 +1,7 @@
-# NAME gnps_motif_33
-# ANNOTATION tetrahydroisoquinoline substructure
-# SHORT_ANNOTATION tetrahydroisoquinoline substructure
-# COMMENT Derived from gnps_binned_005 ms2lda experiment id=191
+#NAME gnps_motif_33
+#ANNOTATION tetrahydroisoquinoline substructure
+#SHORT_ANNOTATION tetrahydroisoquinoline substructure
+#COMMENT Derived from gnps_binned_005 ms2lda experiment id=191
 fragment_132.0825,0.394734953111923
 fragment_187.0875,0.125796184747074
 fragment_130.0675,0.118298889983831

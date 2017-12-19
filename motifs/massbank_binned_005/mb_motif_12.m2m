@@ -1,7 +1,7 @@
-# NAME mb_motif_12
-# ANNOTATION Leucine related fragments and losses
-# SHORT_ANNOTATION Leucine related fragments and losses
-# COMMENT Derived from massbank_binned_005 ms2lda experiment id=190
+#NAME mb_motif_12
+#ANNOTATION Leucine related fragments and losses
+#SHORT_ANNOTATION Leucine related fragments and losses
+#COMMENT Derived from massbank_binned_005 ms2lda experiment id=190
 loss_88.0525,0.160609649143636
 fragment_44.0525,0.143502462633599
 fragment_41.0375,0.0809993060268306

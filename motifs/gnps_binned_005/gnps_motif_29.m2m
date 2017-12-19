@@ -1,7 +1,7 @@
-# NAME gnps_motif_29
-# ANNOTATION 1-naphthalenamine substructure (or isomeric substructure)
-# SHORT_ANNOTATION 1-naphthalenamine substructure (or isomeric substructure)
-# COMMENT Derived from gnps_binned_005 ms2lda experiment id=191
+#NAME gnps_motif_29
+#ANNOTATION 1-naphthalenamine substructure (or isomeric substructure)
+#SHORT_ANNOTATION 1-naphthalenamine substructure (or isomeric substructure)
+#COMMENT Derived from gnps_binned_005 ms2lda experiment id=191
 fragment_143.0725,0.169044408515336
 fragment_115.0325,0.0834675534778555
 fragment_442.2225,0.0640179103466529

@@ -1,7 +1,7 @@
-# NAME gnps_motif_67
-# ANNOTATION genistein related
-# SHORT_ANNOTATION genistein related
-# COMMENT Derived from gnps_binned_005 ms2lda experiment id=191
+#NAME gnps_motif_67
+#ANNOTATION genistein related
+#SHORT_ANNOTATION genistein related
+#COMMENT Derived from gnps_binned_005 ms2lda experiment id=191
 fragment_271.0575,0.121902178904824
 loss_110.0725,0.0622045984077969
 fragment_357.1325,0.0412585047616101

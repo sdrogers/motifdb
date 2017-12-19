@@ -1,7 +1,7 @@
-# NAME mb_motif_10
-# ANNOTATION Loss of C3H6 - indicative for the presence of an isopropyl group
-# SHORT_ANNOTATION Loss of C3H6 - indicative for the presence of an isopropyl group
-# COMMENT Derived from massbank_binned_005 ms2lda experiment id=190
+#NAME mb_motif_10
+#ANNOTATION Loss of C3H6 - indicative for the presence of an isopropyl group
+#SHORT_ANNOTATION Loss of C3H6 - indicative for the presence of an isopropyl group
+#COMMENT Derived from massbank_binned_005 ms2lda experiment id=190
 loss_42.0475,0.55184487580366
 fragment_188.0725,0.0561545398071991
 fragment_146.0225,0.0513404536048232

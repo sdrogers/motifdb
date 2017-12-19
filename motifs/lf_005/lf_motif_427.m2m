@@ -1,7 +1,7 @@
-# NAME lf_motif_427
-# ANNOTATION DSF phorbol ester (PE)  367  311  293  265  263
-# SHORT_ANNOTATION DSF phorbol ester (PE) 367  311  293  265  263
-# Derived from Louis Felix ms2lda experiment id=390
+#NAME lf_motif_427
+#ANNOTATION DSF phorbol ester (PE)  367  311  293  265  263
+#SHORT_ANNOTATION DSF phorbol ester (PE) 367  311  293  265  263
+#COMMENT Derived from Louis Felix ms2lda experiment id=390
 fragment_293.1575,0.0964954843444815
 fragment_265.1575,0.0588233398934858
 fragment_367.1925,0.0580223131768231

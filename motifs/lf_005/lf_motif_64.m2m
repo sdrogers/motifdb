@@ -1,7 +1,7 @@
-# NAME lf_motif_64
-# ANNOTATION Nic + H20 124  Nic -H20 106 and others
-# SHORT_ANNOTATION Nic + H20 124  Nic -H20 106 and others
-# Derived from Louis Felix ms2lda experiment id=390
+#NAME lf_motif_64
+#ANNOTATION Nic + H20 124  Nic -H20 106 and others
+#SHORT_ANNOTATION Nic + H20 124  Nic -H20 106 and others
+#COMMENT Derived from Louis Felix ms2lda experiment id=390
 fragment_124.0375,0.201462238372959
 fragment_416.1875,0.0506653265390855
 fragment_624.2775,0.034964905013482

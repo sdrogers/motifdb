@@ -1,7 +1,7 @@
-# NAME lf_motif_346
-# ANNOTATION Unknown
-# SHORT_ANNOTATION 457  458  loss 35  loss 34  loss 53  loss 52
-# Derived from Louis Felix ms2lda experiment id=390
+#NAME lf_motif_346
+#ANNOTATION Unknown
+#SHORT_ANNOTATION 457  458  loss 35  loss 34  loss 53  loss 52
+#COMMENT Derived from Louis Felix ms2lda experiment id=390
 loss_35.0325,0.704929005591381
 loss_34.0325,0.0822841595555907
 loss_53.0425,0.0791939606483599

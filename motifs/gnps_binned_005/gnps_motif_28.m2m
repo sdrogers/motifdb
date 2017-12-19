@@ -1,7 +1,7 @@
-# NAME gnps_motif_28
-# ANNOTATION 2-oxochromen-7-yl [mainly dimethylated] related substructure
-# SHORT_ANNOTATION 2-oxochromen-7-yl [mainly dimethylated] related substructure
-# COMMENT Derived from gnps_binned_005 ms2lda experiment id=191
+#NAME gnps_motif_28
+#ANNOTATION 2-oxochromen-7-yl [mainly dimethylated] related substructure
+#SHORT_ANNOTATION 2-oxochromen-7-yl [mainly dimethylated] related substructure
+#COMMENT Derived from gnps_binned_005 ms2lda experiment id=191
 fragment_203.0725,0.290465758950694
 fragment_231.1025,0.0864165608436972
 fragment_175.0775,0.0755597739522545

@@ -1,7 +1,7 @@
-# NAME lf_motif_341
-# ANNOTATION diterpene dPE/IE 355  295  285  277  267
-# SHORT_ANNOTATION diterpene dPE/IE 355  295  285  277  267
-# Derived from Louis Felix ms2lda experiment id=390
+#NAME lf_motif_341
+#ANNOTATION diterpene dPE/IE 355  295  285  277  267
+#SHORT_ANNOTATION diterpene dPE/IE 355  295  285  277  267
+#COMMENT Derived from Louis Felix ms2lda experiment id=390
 fragment_295.1725,0.642048256895483
 fragment_267.1775,0.117225686278662
 fragment_296.1725,0.0627219354619623

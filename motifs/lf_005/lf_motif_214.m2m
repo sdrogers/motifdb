@@ -1,7 +1,7 @@
-# NAME lf_motif_214
-# ANNOTATION Unknown
-# SHORT_ANNOTATION 425  426  407
-# Derived from Louis Felix ms2lda experiment id=390
+#NAME lf_motif_214
+#ANNOTATION Unknown
+#SHORT_ANNOTATION 425  426  407
+#COMMENT Derived from Louis Felix ms2lda experiment id=390
 fragment_425.3775,0.727853331546339
 fragment_426.3825,0.0887263729581432
 fragment_426.3775,0.0604401905706764

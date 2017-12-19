@@ -1,7 +1,7 @@
-# NAME lf_motif_149
-# ANNOTATION jatrophane 399  339  279  251
-# SHORT_ANNOTATION jatrophane 399  339  279  251
-# Derived from Louis Felix ms2lda experiment id=390
+#NAME lf_motif_149
+#ANNOTATION jatrophane 399  339  279  251
+#SHORT_ANNOTATION jatrophane 399  339  279  251
+#COMMENT Derived from Louis Felix ms2lda experiment id=390
 fragment_279.1725,0.408390916766236
 fragment_297.1825,0.101568952942693
 fragment_251.1775,0.0594688772455331

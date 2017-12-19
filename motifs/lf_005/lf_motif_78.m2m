@@ -1,7 +1,7 @@
-# NAME lf_motif_78
-# ANNOTATION DSF (PE or JE Group C)
-# SHORT_ANNOTATION 293  263  265  235  251  311  223  281  283  221
-# Derived from Louis Felix ms2lda experiment id=390
+#NAME lf_motif_78
+#ANNOTATION DSF (PE or JE Group C)
+#SHORT_ANNOTATION 293  263  265  235  251  311  223  281  283  221
+#COMMENT Derived from Louis Felix ms2lda experiment id=390
 fragment_293.1525,0.196937389593323
 fragment_263.1425,0.100064143527058
 fragment_265.1575,0.072986214287417

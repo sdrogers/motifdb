@@ -1,7 +1,7 @@
-# NAME gnps_motif_22
-# ANNOTATION losses indicative for 4-oxo-1 4-dihydroquinoline-3-carboxylic acid substructure in GNPS
-# SHORT_ANNOTATION losses indicative for 4-oxo-1 4-dihydroquinoline-3-carboxylic acid substructure in GNPS
-# COMMENT Derived from gnps_binned_005 ms2lda experiment id=191
+#NAME gnps_motif_22
+#ANNOTATION losses indicative for 4-oxo-1 4-dihydroquinoline-3-carboxylic acid substructure in GNPS
+#SHORT_ANNOTATION losses indicative for 4-oxo-1 4-dihydroquinoline-3-carboxylic acid substructure in GNPS
+#COMMENT Derived from gnps_binned_005 ms2lda experiment id=191
 loss_101.0475,0.238857660402237
 fragment_261.1025,0.109000667886996
 fragment_362.1475,0.0747215896565066

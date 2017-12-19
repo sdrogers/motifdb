@@ -1,7 +1,7 @@
-# NAME gnps_motif_50
-# ANNOTATION Steroid core related (C18H21 and smaller fragments thereof - with C12H13  C11H11  and C11H13 most probable)
-# SHORT_ANNOTATION Steroid core related (C18H21 and smaller fragments thereof - with C12H13  C11H11  and C11H13 most probable)
-# COMMENT Derived from gnps_binned_005 ms2lda experiment id=191
+#NAME gnps_motif_50
+#ANNOTATION Steroid core related (C18H21 and smaller fragments thereof - with C12H13  C11H11  and C11H13 most probable)
+#SHORT_ANNOTATION Steroid core related (C18H21 and smaller fragments thereof - with C12H13  C11H11  and C11H13 most probable)
+#COMMENT Derived from gnps_binned_005 ms2lda experiment id=191
 fragment_157.1025,0.0608119434867818
 fragment_143.0875,0.054645855685702
 fragment_145.1025,0.0532656658944939

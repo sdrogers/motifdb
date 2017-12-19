@@ -1,7 +1,7 @@
-# NAME gnps_motif_10
-# ANNOTATION cinchonan-9-ol substructure
-# SHORT_ANNOTATION cinchonan-9-ol substructure
-# COMMENT Derived from gnps_binned_005 ms2lda experiment id=191
+#NAME gnps_motif_10
+#ANNOTATION cinchonan-9-ol substructure
+#SHORT_ANNOTATION cinchonan-9-ol substructure
+#COMMENT Derived from gnps_binned_005 ms2lda experiment id=191
 fragment_325.1925,0.10278627590983
 loss_165.1175,0.079326900197118
 fragment_160.0775,0.0565853106265965

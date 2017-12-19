@@ -1,7 +1,7 @@
-# NAME lf_motif_260
-# ANNOTATION Diterp 327  299  281  - 105
-# SHORT_ANNOTATION Diterp 327  299  281  - 105
-# Derived from Louis Felix ms2lda experiment id=390
+#NAME lf_motif_260
+#ANNOTATION Diterp 327  299  281  - 105
+#SHORT_ANNOTATION Diterp 327  299  281  - 105
+#COMMENT Derived from Louis Felix ms2lda experiment id=390
 fragment_105.0325,0.119684211114072
 fragment_631.2575,0.0854781699894047
 fragment_299.1625,0.0544494495839391

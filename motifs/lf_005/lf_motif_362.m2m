@@ -1,7 +1,7 @@
-# NAME lf_motif_362
-# ANNOTATION m/z 455  437  472
-# SHORT_ANNOTATION m/z 455  437  472
-# Derived from Louis Felix ms2lda experiment id=390
+#NAME lf_motif_362
+#ANNOTATION m/z 455  437  472
+#SHORT_ANNOTATION m/z 455  437  472
+#COMMENT Derived from Louis Felix ms2lda experiment id=390
 fragment_455.3425,0.226813072549374
 fragment_437.3325,0.0489095604038038
 loss_126.1075,0.0437919089469381

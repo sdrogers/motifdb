@@ -1,7 +1,7 @@
-# NAME mb_motif_150
-# ANNOTATION Loss of acetyl group (C2H2O) - indicative for presence of N/O acetylation
-# SHORT_ANNOTATION Acetyl loss
-# COMMENT Derived from massbank_binned_005 ms2lda experiment id=190
+#NAME mb_motif_150
+#ANNOTATION Loss of acetyl group (C2H2O) - indicative for presence of N/O acetylation
+#SHORT_ANNOTATION Acetyl loss
+#COMMENT Derived from massbank_binned_005 ms2lda experiment id=190
 loss_42.0125,0.566915606744518
 loss_88.0175,0.0514781821493192
 fragment_134.0425,0.0429308265743009

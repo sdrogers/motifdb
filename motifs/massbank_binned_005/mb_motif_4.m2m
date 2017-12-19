@@ -1,7 +1,7 @@
-# NAME mb_motif_4
-# ANNOTATION Loss of methyl group – indicative for presence of methoxy [O-CH3]  methylsulfyl [S-CH3]  or methylgroup connected to aromatic ring system
-# SHORT_ANNOTATION Loss of methyl group – indicative for presence of methoxy [O-CH3]  methylsulfyl [S-CH3]  or methylgroup connected to aromatic ring system
-# COMMENT Derived from massbank_binned_005 ms2lda experiment id=190
+#NAME mb_motif_4
+#ANNOTATION Loss of methyl group – indicative for presence of methoxy [O-CH3]  methylsulfyl [S-CH3]  or methylgroup connected to aromatic ring system
+#SHORT_ANNOTATION Loss of methyl group – indicative for presence of methoxy [O-CH3]  methylsulfyl [S-CH3]  or methylgroup connected to aromatic ring system
+#COMMENT Derived from massbank_binned_005 ms2lda experiment id=190
 loss_15.0225,0.7012686132026
 loss_16.0325,0.070814036475226
 fragment_200.0075,0.0691634718339966

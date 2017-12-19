@@ -1,7 +1,7 @@
-# NAME gnps_motif_9
-# ANNOTATION Isopropyl/propylamine substructure (loss based) or isopropyl/propyl side chain
-# SHORT_ANNOTATION Isopropyl/propylamine substructure (loss based) or isopropyl/propyl side chain
-# COMMENT Derived from gnps_binned_005 ms2lda experiment id=191
+#NAME gnps_motif_9
+#ANNOTATION Isopropyl/propylamine substructure (loss based) or isopropyl/propyl side chain
+#SHORT_ANNOTATION Isopropyl/propylamine substructure (loss based) or isopropyl/propyl side chain
+#COMMENT Derived from gnps_binned_005 ms2lda experiment id=191
 loss_42.0475,0.216103933806607
 fragment_229.0475,0.101676634957122
 loss_84.0925,0.0907410227725561

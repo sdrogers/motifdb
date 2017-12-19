@@ -1,7 +1,7 @@
-# NAME gnps_motif_18
-# ANNOTATION Acetyl loss
-# SHORT_ANNOTATION Acetyl loss
-# COMMENT Derived from gnps_binned_005 ms2lda experiment id=191
+#NAME gnps_motif_18
+#ANNOTATION Acetyl loss
+#SHORT_ANNOTATION Acetyl loss
+#COMMENT Derived from gnps_binned_005 ms2lda experiment id=191
 loss_42.0125,0.382488378151001
 fragment_311.1275,0.0604595831358954
 fragment_195.0025,0.0528913965606825

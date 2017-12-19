@@ -1,7 +1,7 @@
-# NAME gnps_motif_61
-# ANNOTATION Theophylline substructure
-# SHORT_ANNOTATION Theophylline substructure
-# COMMENT Derived from gnps_binned_005 ms2lda experiment id=191
+#NAME gnps_motif_61
+#ANNOTATION Theophylline substructure
+#SHORT_ANNOTATION Theophylline substructure
+#COMMENT Derived from gnps_binned_005 ms2lda experiment id=191
 fragment_181.0725,0.207395503087642
 loss_76.0275,0.0554916406156858
 fragment_161.0425,0.0553228358420457

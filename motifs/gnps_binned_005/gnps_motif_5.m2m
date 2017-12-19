@@ -1,5 +1,5 @@
-# NAME gnps_motif_5
-# ANNOTATION Combined loss of H2O and CO – indicative for presence of carboxylic acid (COOH) substructure – generic substructure in amino acids and organic acids
-# SHORT_ANNOTATION Combined loss of H2O and CO – indicative for presence of carboxylic acid (COOH) substructure – generic substructure in amino acids and organic acids
-# COMMENT Derived from gnps_binned_005 ms2lda experiment id=191
+#NAME gnps_motif_5
+#ANNOTATION Combined loss of H2O and CO – indicative for presence of carboxylic acid (COOH) substructure – generic substructure in amino acids and organic acids
+#SHORT_ANNOTATION Combined loss of H2O and CO – indicative for presence of carboxylic acid (COOH) substructure – generic substructure in amino acids and organic acids
+#COMMENT Derived from gnps_binned_005 ms2lda experiment id=191
 loss_46.0075,1.0

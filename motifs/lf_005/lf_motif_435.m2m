@@ -1,7 +1,7 @@
-# NAME lf_motif_435
-# ANNOTATION DSF (JE Group A)  benzoyl cation (105)
-# SHORT_ANNOTATION 299  271  300  421  105  137  481  499  439   loss 182
-# Derived from Louis Felix ms2lda experiment id=390
+#NAME lf_motif_435
+#ANNOTATION DSF (JE Group A)  benzoyl cation (105)
+#SHORT_ANNOTATION 299  271  300  421  105  137  481  499  439   loss 182
+#COMMENT Derived from Louis Felix ms2lda experiment id=390
 fragment_299.2025,0.290290569461172
 fragment_271.2075,0.0468215807481996
 fragment_300.2025,0.031348643805974

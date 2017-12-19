@@ -1,7 +1,7 @@
-# NAME gnps_motif_64
-# ANNOTATION phthalate substructure
-# SHORT_ANNOTATION phthalate substructure
-# COMMENT Derived from gnps_binned_005 ms2lda experiment id=191
+#NAME gnps_motif_64
+#ANNOTATION phthalate substructure
+#SHORT_ANNOTATION phthalate substructure
+#COMMENT Derived from gnps_binned_005 ms2lda experiment id=191
 fragment_149.0225,0.319942993251841
 fragment_121.0275,0.0218737499575226
 fragment_180.0775,0.01666699663447

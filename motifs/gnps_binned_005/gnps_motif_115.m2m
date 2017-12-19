@@ -1,7 +1,7 @@
-# NAME gnps_motif_115
-# ANNOTATION Sterone steroid related Mass2Motif
-# SHORT_ANNOTATION Sterone steroid related
-# COMMENT Derived from gnps_binned_005 ms2lda experiment id=191
+#NAME gnps_motif_115
+#ANNOTATION Sterone steroid related Mass2Motif
+#SHORT_ANNOTATION Sterone steroid related
+#COMMENT Derived from gnps_binned_005 ms2lda experiment id=191
 fragment_109.0675,0.110652667030186
 fragment_315.2325,0.0597814477787194
 fragment_313.2175,0.0492049911879055

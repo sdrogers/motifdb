@@ -1,7 +1,7 @@
-# NAME lf_motif_328
-# ANNOTATION Tig fragment (83) and others
-# SHORT_ANNOTATION Tig fragment (83) and others
-# Derived from Louis Felix ms2lda experiment id=390
+#NAME lf_motif_328
+#ANNOTATION Tig fragment (83) and others
+#SHORT_ANNOTATION Tig fragment (83) and others
+#COMMENT Derived from Louis Felix ms2lda experiment id=390
 loss_177.0975,0.312024061082187
 loss_195.1125,0.211599725536509
 loss_176.0975,0.040635226366176

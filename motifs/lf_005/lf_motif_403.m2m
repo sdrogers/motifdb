@@ -1,7 +1,7 @@
-# NAME lf_motif_403
-# ANNOTATION jatrophane 355  337  285  277  267 Nic + H20 124  Nic -H20 106
-# SHORT_ANNOTATION jatrophane 355  337  285  277  267 Nic + H20 124  Nic -H20 106
-# Derived from Louis Felix ms2lda experiment id=390
+#NAME lf_motif_403
+#ANNOTATION jatrophane 355  337  285  277  267 Nic + H20 124  Nic -H20 106
+#SHORT_ANNOTATION jatrophane 355  337  285  277  267 Nic + H20 124  Nic -H20 106
+#COMMENT Derived from Louis Felix ms2lda experiment id=390
 fragment_124.0375,0.0752219608620153
 loss_148.0775,0.0411735005237982
 fragment_106.0275,0.0282204215809931

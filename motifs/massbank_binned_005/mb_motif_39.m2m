@@ -1,7 +1,7 @@
-# NAME mb_motif_39
-# ANNOTATION Fragments indicative adenine (C5H6N5) substructure
-# SHORT_ANNOTATION Fragments indicative adenine (C5H6N5) substructure
-# COMMENT Derived from massbank_binned_005 ms2lda experiment id=190
+#NAME mb_motif_39
+#ANNOTATION Fragments indicative adenine (C5H6N5) substructure
+#SHORT_ANNOTATION Fragments indicative adenine (C5H6N5) substructure
+#COMMENT Derived from massbank_binned_005 ms2lda experiment id=190
 fragment_136.0625,0.571831605938947
 loss_84.0575,0.221299149707604
 fragment_202.1075,0.0544871057642247

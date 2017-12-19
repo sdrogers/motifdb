@@ -1,7 +1,7 @@
-# NAME gnps_motif_1
-# ANNOTATION Sterone related
-# SHORT_ANNOTATION Sterone related
-# COMMENT Derived from gnps_binned_005 ms2lda experiment id=191
+#NAME gnps_motif_1
+#ANNOTATION Sterone related
+#SHORT_ANNOTATION Sterone related
+#COMMENT Derived from gnps_binned_005 ms2lda experiment id=191
 fragment_109.0625,0.160222278284365
 fragment_123.0825,0.110703010861745
 fragment_97.0625,0.077087355091565

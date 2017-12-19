@@ -1,7 +1,7 @@
-# NAME gnps_motif_8
-# ANNOTATION 2-(5-Methoxy-1H-indol-3-yl)ethyl substructure
-# SHORT_ANNOTATION 2-(5-Methoxy-1H-indol-3-yl)ethyl substructure
-# COMMENT Derived from gnps_binned_005 ms2lda experiment id=191
+#NAME gnps_motif_8
+#ANNOTATION 2-(5-Methoxy-1H-indol-3-yl)ethyl substructure
+#SHORT_ANNOTATION 2-(5-Methoxy-1H-indol-3-yl)ethyl substructure
+#COMMENT Derived from gnps_binned_005 ms2lda experiment id=191
 fragment_174.0925,0.221303845219465
 fragment_159.0675,0.118848304653144
 loss_94.0525,0.0436862409171006

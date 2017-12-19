@@ -1,7 +1,7 @@
-# NAME mb_motif_11
-# ANNOTATION Atenolol related fragments and losses
-# SHORT_ANNOTATION Atenolol related fragments and losses
-# COMMENT Derived from massbank_binned_005 ms2lda experiment id=190
+#NAME mb_motif_11
+#ANNOTATION Atenolol related fragments and losses
+#SHORT_ANNOTATION Atenolol related fragments and losses
+#COMMENT Derived from massbank_binned_005 ms2lda experiment id=190
 fragment_225.1225,0.141176544337592
 fragment_267.1725,0.0829641635036653
 fragment_190.0875,0.0702711802739026

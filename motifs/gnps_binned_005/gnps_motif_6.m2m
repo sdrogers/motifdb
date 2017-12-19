@@ -1,7 +1,7 @@
-# NAME gnps_motif_6
-# ANNOTATION Diphenyl substructure
-# SHORT_ANNOTATION Diphenyl substructure
-# COMMENT Derived from gnps_binned_005 ms2lda experiment id=191
+#NAME gnps_motif_6
+#ANNOTATION Diphenyl substructure
+#SHORT_ANNOTATION Diphenyl substructure
+#COMMENT Derived from gnps_binned_005 ms2lda experiment id=191
 fragment_167.0875,0.4660322993649
 fragment_152.0625,0.083745876069039
 fragment_165.0675,0.0553420080911363

@@ -1,7 +1,7 @@
-# NAME gnps_motif_69
-# ANNOTATION H-dibenzo(a d)cyclohepten-5-ylidene substructure (and isomer with three connected benzene rings)
-# SHORT_ANNOTATION H-dibenzo(a d)cyclohepten-5-ylidene substructure (and isomer with three connected benzene rings)
-# COMMENT Derived from gnps_binned_005 ms2lda experiment id=191
+#NAME gnps_motif_69
+#ANNOTATION H-dibenzo(a d)cyclohepten-5-ylidene substructure (and isomer with three connected benzene rings)
+#SHORT_ANNOTATION H-dibenzo(a d)cyclohepten-5-ylidene substructure (and isomer with three connected benzene rings)
+#COMMENT Derived from gnps_binned_005 ms2lda experiment id=191
 fragment_191.0875,0.0417283006922151
 fragment_129.0675,0.0354485511224385
 fragment_178.0775,0.0315283785394308

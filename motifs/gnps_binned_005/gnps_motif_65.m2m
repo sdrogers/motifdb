@@ -1,7 +1,7 @@
-# NAME gnps_motif_65
-# ANNOTATION oxo-1 2 3 4-tetrahydrocyclopenta[c]chromen-7-yl substructure
-# SHORT_ANNOTATION oxo-1 2 3 4-tetrahydrocyclopenta[c]chromen-7-yl substructure
-# COMMENT Derived from gnps_binned_005 ms2lda experiment id=191
+#NAME gnps_motif_65
+#ANNOTATION oxo-1 2 3 4-tetrahydrocyclopenta[c]chromen-7-yl substructure
+#SHORT_ANNOTATION oxo-1 2 3 4-tetrahydrocyclopenta[c]chromen-7-yl substructure
+#COMMENT Derived from gnps_binned_005 ms2lda experiment id=191
 fragment_229.0875,0.211544423183201
 fragment_201.0925,0.111140935679241
 fragment_217.0875,0.0671227975531726

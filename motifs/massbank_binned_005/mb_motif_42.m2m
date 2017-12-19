@@ -1,7 +1,7 @@
-# NAME mb_motif_42
-# ANNOTATION Fragments indicative for kaempferol/glycosylated kaempferol substructure
-# SHORT_ANNOTATION Fragments indicative for kaempferol/glycosylated kaempferol substructure
-# COMMENT Derived from massbank_binned_005 ms2lda experiment id=190
+#NAME mb_motif_42
+#ANNOTATION Fragments indicative for kaempferol/glycosylated kaempferol substructure
+#SHORT_ANNOTATION Fragments indicative for kaempferol/glycosylated kaempferol substructure
+#COMMENT Derived from massbank_binned_005 ms2lda experiment id=190
 fragment_287.0575,0.797557373027937
 fragment_595.1675,0.0304875857140715
 fragment_449.1075,0.0226842382324655

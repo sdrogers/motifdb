@@ -1,7 +1,7 @@
-# NAME lf_motif_432
-# ANNOTATION DSF; 480  297  279  269  251; Side chain (Nic  Nic + H20) 106  124
-# SHORT_ANNOTATION jatrophane 582  459  399  339  279  251  Nic + H20 124  Nic -H20 106
-# Derived from Louis Felix ms2lda experiment id=390
+#NAME lf_motif_432
+#ANNOTATION DSF; 480  297  279  269  251; Side chain (Nic  Nic + H20) 106  124
+#SHORT_ANNOTATION jatrophane 582  459  399  339  279  251  Nic + H20 124  Nic -H20 106
+#COMMENT Derived from Louis Felix ms2lda experiment id=390
 fragment_124.0375,0.115552610342638
 fragment_297.1825,0.0590591290351507
 fragment_279.1725,0.0397387092338758

@@ -1,7 +1,7 @@
-# NAME gnps_motif_70
-# ANNOTATION indicative of piperazine substructure (or related N-containing ring structures for C2H5N loss only)
-# SHORT_ANNOTATION indicative of piperazine substructure (or related N-containing ring structures for C2H5N loss only)
-# COMMENT Derived from gnps_binned_005 ms2lda experiment id=191
+#NAME gnps_motif_70
+#ANNOTATION indicative of piperazine substructure (or related N-containing ring structures for C2H5N loss only)
+#SHORT_ANNOTATION indicative of piperazine substructure (or related N-containing ring structures for C2H5N loss only)
+#COMMENT Derived from gnps_binned_005 ms2lda experiment id=191
 loss_43.0425,0.266773045412584
 loss_86.0825,0.0522747098324769
 loss_57.0575,0.034564372236504

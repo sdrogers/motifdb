@@ -1,7 +1,7 @@
-# NAME gnps_motif_60
-# ANNOTATION Quinazolinol substructure (or formed after fragmentation event of dihydro analogue)
-# SHORT_ANNOTATION Quinazolinol substructure (or formed after fragmentation event of dihydro analogue)
-# COMMENT Derived from gnps_binned_005 ms2lda experiment id=191
+#NAME gnps_motif_60
+#ANNOTATION Quinazolinol substructure (or formed after fragmentation event of dihydro analogue)
+#SHORT_ANNOTATION Quinazolinol substructure (or formed after fragmentation event of dihydro analogue)
+#COMMENT Derived from gnps_binned_005 ms2lda experiment id=191
 fragment_147.0575,0.274732402217283
 fragment_175.0525,0.114948669350757
 fragment_119.0625,0.0971557983345644

@@ -1,7 +1,7 @@
-# NAME lf_motif_322
-# ANNOTATION NL AcOH m/z 295  277
-# SHORT_ANNOTATION NL AcOH m/z 295  277
-# Derived from Louis Felix ms2lda experiment id=390
+#NAME lf_motif_322
+#ANNOTATION NL AcOH m/z 295  277
+#SHORT_ANNOTATION NL AcOH m/z 295  277
+#COMMENT Derived from Louis Felix ms2lda experiment id=390
 loss_60.0175,0.080389628355369
 fragment_790.3475,0.0731714411176988
 fragment_626.2975,0.0402018121529021

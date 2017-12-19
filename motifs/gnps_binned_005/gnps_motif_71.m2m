@@ -1,7 +1,7 @@
-# NAME gnps_motif_71
-# ANNOTATION 4-Methyl-6-oxo-6H-benzo[c]chromen-3-yl substructure
-# SHORT_ANNOTATION 4-Methyl-6-oxo-6H-benzo[c]chromen-3-yl substructure
-# COMMENT Derived from gnps_binned_005 ms2lda experiment id=191
+#NAME gnps_motif_71
+#ANNOTATION 4-Methyl-6-oxo-6H-benzo[c]chromen-3-yl substructure
+#SHORT_ANNOTATION 4-Methyl-6-oxo-6H-benzo[c]chromen-3-yl substructure
+#COMMENT Derived from gnps_binned_005 ms2lda experiment id=191
 fragment_239.0725,0.21986689032043
 fragment_181.0625,0.0783577901958133
 fragment_211.0775,0.0516306274194718

@@ -1,7 +1,7 @@
-# NAME lf_motif_413
-# ANNOTATION DSF (dPE/IE or JE Group B)
-# SHORT_ANNOTATION 313  314  285
-# Derived from Louis Felix ms2lda experiment id=390
+#NAME lf_motif_413
+#ANNOTATION DSF (dPE/IE or JE Group B)
+#SHORT_ANNOTATION 313  314  285
+#COMMENT Derived from Louis Felix ms2lda experiment id=390
 fragment_313.1775,0.815793359503545
 fragment_314.1825,0.0922206540049121
 fragment_285.1825,0.0178476091757028

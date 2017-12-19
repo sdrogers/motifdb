@@ -1,7 +1,7 @@
-# NAME gnps_motif_31
-# ANNOTATION Fluorobenzyl substructure
-# SHORT_ANNOTATION Fluorobenzyl substructure
-# COMMENT Derived from gnps_binned_005 ms2lda experiment id=191
+#NAME gnps_motif_31
+#ANNOTATION Fluorobenzyl substructure
+#SHORT_ANNOTATION Fluorobenzyl substructure
+#COMMENT Derived from gnps_binned_005 ms2lda experiment id=191
 fragment_123.0225,0.14976829861221
 fragment_291.0625,0.120056990109304
 fragment_130.0875,0.0746940217368958

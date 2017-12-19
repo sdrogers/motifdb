@@ -1,7 +1,7 @@
-# NAME gnps_motif_20
-# ANNOTATION 4-keto-chlorobenzene substructure
-# SHORT_ANNOTATION 4-keto-chlorobenzene substructure
-# COMMENT Derived from gnps_binned_005 ms2lda experiment id=191
+#NAME gnps_motif_20
+#ANNOTATION 4-keto-chlorobenzene substructure
+#SHORT_ANNOTATION 4-keto-chlorobenzene substructure
+#COMMENT Derived from gnps_binned_005 ms2lda experiment id=191
 fragment_138.9925,0.229356002405339
 loss_98.0725,0.121816791755649
 fragment_181.0725,0.061149835684869

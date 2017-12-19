@@ -1,7 +1,7 @@
-# NAME gnps_motif_19
-# ANNOTATION (5-Hydroxy-2 2-dimethyl-4-oxo-3 4-dihydro-2H-chromen-7-yl)oxy substructure
-# SHORT_ANNOTATION (5-Hydroxy-2 2-dimethyl-4-oxo-3 4-dihydro-2H-chromen-7-yl)oxy substructure
-# COMMENT Derived from gnps_binned_005 ms2lda experiment id=191
+#NAME gnps_motif_19
+#ANNOTATION (5-Hydroxy-2 2-dimethyl-4-oxo-3 4-dihydro-2H-chromen-7-yl)oxy substructure
+#SHORT_ANNOTATION (5-Hydroxy-2 2-dimethyl-4-oxo-3 4-dihydro-2H-chromen-7-yl)oxy substructure
+#COMMENT Derived from gnps_binned_005 ms2lda experiment id=191
 fragment_153.0175,0.438853173640604
 loss_126.0325,0.0474701981948248
 loss_166.0275,0.0417608157606812

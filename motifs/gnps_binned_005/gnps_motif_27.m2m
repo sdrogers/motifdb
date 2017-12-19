@@ -1,7 +1,7 @@
-# NAME gnps_motif_27
-# ANNOTATION (methylphenyl)sulfonyl substructure
-# SHORT_ANNOTATION (methylphenyl)sulfonyl substructure
-# COMMENT Derived from gnps_binned_005 ms2lda experiment id=191
+#NAME gnps_motif_27
+#ANNOTATION (methylphenyl)sulfonyl substructure
+#SHORT_ANNOTATION (methylphenyl)sulfonyl substructure
+#COMMENT Derived from gnps_binned_005 ms2lda experiment id=191
 fragment_155.0175,0.204577638612009
 fragment_112.0775,0.131150300734141
 fragment_474.1725,0.0731867058447746

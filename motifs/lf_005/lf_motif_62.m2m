@@ -1,7 +1,7 @@
-# NAME lf_motif_62
-# ANNOTATION 267  169  373  538  355  loss 183  loss 123  loss 141  loss 76  loss 182
-# SHORT_ANNOTATION DSF (dPE/IE or JE Group B)
-# Derived from Louis Felix ms2lda experiment id=390
+#NAME lf_motif_62
+#ANNOTATION 267  169  373  538  355  loss 183  loss 123  loss 141  loss 76  loss 182
+#SHORT_ANNOTATION DSF (dPE/IE or JE Group B)
+#COMMENT Derived from Louis Felix ms2lda experiment id=390
 fragment_267.1775,0.170678685776169
 loss_183.1075,0.162425530128353
 fragment_169.1025,0.0368831854482878

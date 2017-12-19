@@ -1,7 +1,7 @@
-# NAME gnps_motif_2
-# ANNOTATION Benzenesulfonylamide related fragments and losses
-# SHORT_ANNOTATION Benzenesulfonylamide related fragments and losses
-# COMMENT Derived from gnps_binned_005 ms2lda experiment id=191
+#NAME gnps_motif_2
+#ANNOTATION Benzenesulfonylamide related fragments and losses
+#SHORT_ANNOTATION Benzenesulfonylamide related fragments and losses
+#COMMENT Derived from gnps_binned_005 ms2lda experiment id=191
 fragment_108.0425,0.215229171674117
 fragment_156.0125,0.150119553126771
 loss_155.0025,0.0762119435866034

@@ -1,7 +1,7 @@
-# NAME lf_motif_75
-# ANNOTATION Unknown  side chain?
-# SHORT_ANNOTATION 247  259  123  109  229  loss 178  loss 196  loss 166  loss 184
-# Derived from Louis Felix ms2lda experiment id=390
+#NAME lf_motif_75
+#ANNOTATION Unknown  side chain?
+#SHORT_ANNOTATION 247  259  123  109  229  loss 178  loss 196  loss 166  loss 184
+#COMMENT Derived from Louis Felix ms2lda experiment id=390
 loss_178.1725,0.0582684768645629
 fragment_247.2075,0.0575650415511773
 loss_196.1825,0.0476018080220515

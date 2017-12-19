@@ -1,7 +1,7 @@
-# NAME gnps_motif_170
-# ANNOTATION methoxy-methylaminophenyl substructure
-# SHORT_ANNOTATION methoxy-methylaminophenyl substructure
-# COMMENT Derived from gnps_binned_005 ms2lda experiment id=191
+#NAME gnps_motif_170
+#ANNOTATION methoxy-methylaminophenyl substructure
+#SHORT_ANNOTATION methoxy-methylaminophenyl substructure
+#COMMENT Derived from gnps_binned_005 ms2lda experiment id=191
 fragment_121.0675,0.562546639756406
 fragment_112.0775,0.0565071272028915
 fragment_122.0675,0.0506403910097172

@@ -1,7 +1,7 @@
-# NAME lf_motif_299
-# ANNOTATION Loss of phenylgroup 77 and other fragments 95  135  105
-# SHORT_ANNOTATION Loss of phenylgroup 77 and other fragments
-# Derived from Louis Felix ms2lda experiment id=390
+#NAME lf_motif_299
+#ANNOTATION Loss of phenylgroup 77 and other fragments 95  135  105
+#SHORT_ANNOTATION Loss of phenylgroup 77 and other fragments
+#COMMENT Derived from Louis Felix ms2lda experiment id=390
 loss_77.0425,0.743688313525846
 loss_76.0375,0.066719400128734
 loss_76.0425,0.047630955211377

@@ -1,7 +1,7 @@
-# NAME mb_motif_16
-# ANNOTATION Fragments indicative for quercetin/glycosylated quercetin substructure
-# SHORT_ANNOTATION Fragments indicative for quercetin/glycosylated quercetin substructure
-# COMMENT Derived from massbank_binned_005 ms2lda experiment id=190
+#NAME mb_motif_16
+#ANNOTATION Fragments indicative for quercetin/glycosylated quercetin substructure
+#SHORT_ANNOTATION Fragments indicative for quercetin/glycosylated quercetin substructure
+#COMMENT Derived from massbank_binned_005 ms2lda experiment id=190
 fragment_303.0525,0.736440243344678
 fragment_611.1625,0.0833988713465048
 fragment_465.1025,0.0323855588670975

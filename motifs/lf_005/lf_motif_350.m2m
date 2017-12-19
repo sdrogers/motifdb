@@ -1,7 +1,7 @@
-# NAME lf_motif_350
-# ANNOTATION Import motif
-# SHORT_ANNOTATION Important motif
-# Derived from Louis Felix ms2lda experiment id=390
+#NAME lf_motif_350
+#ANNOTATION Import motif
+#SHORT_ANNOTATION Important motif
+#COMMENT Derived from Louis Felix ms2lda experiment id=390
 fragment_191.1775,0.72380969403136
 fragment_217.1925,0.0796066531025274
 fragment_192.1825,0.0520579842031451

@@ -1,7 +1,7 @@
-# NAME gnps_motif_32
-# ANNOTATION Pregn-4 or 5-ene-3-dione substructure
-# SHORT_ANNOTATION Pregn-4 or 5-ene-3-dione substructure
-# COMMENT Derived from gnps_binned_005 ms2lda experiment id=191
+#NAME gnps_motif_32
+#ANNOTATION Pregn-4 or 5-ene-3-dione substructure
+#SHORT_ANNOTATION Pregn-4 or 5-ene-3-dione substructure
+#COMMENT Derived from gnps_binned_005 ms2lda experiment id=191
 fragment_159.1175,0.0435820567283379
 fragment_145.1025,0.0384930107158693
 fragment_105.0675,0.0320326987560738
