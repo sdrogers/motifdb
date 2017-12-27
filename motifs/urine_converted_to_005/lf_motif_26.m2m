@@ -1,0 +1,12 @@
+#NAME lf_motif_26
+#ANNOTATION Carnitine related Mass2Motif – acylcarnitines are prevalent
+#SHORT_ANNOTATION Carnitine related Mass2Motif – acylcarnitines are prevalent
+#COMMENT Derived from Urine ms2lda experiment id=11
+fragment_85.0275,0.894657571673347
+fragment_60.0825,0.0495326355577012
+fragment_57.0325,0.0297804321823497
+loss_191.1175,0.015625521946756
+loss_161.1025,0.00284791712197146
+loss_189.0975,0.0019769369592524
+fragment_217.0675,0.00188056824807871
+fragment_115.0375,0.00116757396826412
