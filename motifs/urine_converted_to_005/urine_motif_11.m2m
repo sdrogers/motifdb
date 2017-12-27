@@ -1,0 +1,19 @@
+#NAME urine_motif_11
+#ANNOTATION C4H8N based Mass2Motif - indicative for proline  arginine  ornitine  citrulline  and N-containing ring structures
+#SHORT_ANNOTATION C4H8N based Mass2Motif - indicative for proline  arginine  ornitine  citrulline  and N-containing ring structures
+#COMMENT Derived from Urine ms2lda experiment id=11
+fragment_70.0675,0.904185931885544
+loss_147.0675,0.02700000236493
+loss_177.0725,0.0178314524245156
+fragment_116.0725,0.0082561515546759
+fragment_115.0875,0.00765718616031208
+fragment_203.1525,0.00535309055841555
+fragment_158.0825,0.00487695608515187
+loss_175.0975,0.00365546618945295
+loss_131.0675,0.00263334675231469
+loss_176.0775,0.00200207387976691
+loss_102.0425,0.00197023520128235
+fragment_112.0875,0.00162781568119297
+loss_101.0575,0.00139924379583234
+fragment_143.0325,0.00116577051325856
+loss_156.0875,0.0010367177963877

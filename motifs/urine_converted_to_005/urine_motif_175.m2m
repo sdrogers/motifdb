@@ -1,0 +1,6 @@
+#NAME urine_motif_175
+#ANNOTATION Mass2Motif related to combined loss of H2O and CO – indicative for free carboxylic acid group (COOH) – generic substructure in amino acids and organic acids
+#SHORT_ANNOTATION Mass2Motif related to combined loss of H2O and CO – indicative for free carboxylic acid group (COOH) – generic substructure in amino acids and organic acids
+#COMMENT Derived from Urine ms2lda experiment id=11
+loss_46.0075,0.97419776549725
+loss_73.0175,0.0233731689594659
