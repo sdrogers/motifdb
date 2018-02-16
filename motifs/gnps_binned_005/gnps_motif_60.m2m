@@ -1,5 +1,5 @@
 #NAME gnps_motif_60
-#ANNOTATION Quinazolinol substructure (or formed after fragmentation event of dihydro analogue)
+#ANNOTATION Quinazolinol substructure (or formed after fragmentation event of dihydro analogue) [ClassyFire: Relevant terms - Substituents: Quinoxaline - Taxa: None]
 #SHORT_ANNOTATION Quinazolinol substructure (or formed after fragmentation event of dihydro analogue)
 #COMMENT Derived from gnps_binned_005 ms2lda experiment id=191
 fragment_147.0575,0.274732402217283

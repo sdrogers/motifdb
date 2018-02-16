@@ -1,5 +1,5 @@
 #NAME gnps_motif_22
-#ANNOTATION losses indicative for 4-oxo-1 4-dihydroquinoline-3-carboxylic acid substructure in GNPS
+#ANNOTATION losses indicative for 4-oxo-1 4-dihydroquinoline-3-carboxylic acid substructure in GNPS [ClassyFire - Relevant terms - Substituents: Dihydroquinolone  Dihydroquinoline - Taxa: Quinoline carboxylic acids  Quinolines and derivatives]
 #SHORT_ANNOTATION losses indicative for 4-oxo-1 4-dihydroquinoline-3-carboxylic acid substructure in GNPS
 #COMMENT Derived from gnps_binned_005 ms2lda experiment id=191
 loss_101.0475,0.238857660402237
@@ -43,8 +43,8 @@ loss_157.0725,0.00443515317573933
 fragment_238.0875,0.00403374206218869
 loss_102.0575,0.00402225334730829
 fragment_320.1025,0.00390621806046433
-loss_15.0225,0.0038916699078647
 fragment_336.0725,0.0038916699078647
+loss_15.0225,0.0038916699078647
 loss_113.0125,0.00377422985029052
 fragment_267.0875,0.00354961689436774
 loss_84.0125,0.00344635596279156
