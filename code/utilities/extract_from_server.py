@@ -37,7 +37,7 @@ def main():
         if option == '-s':
             server_address = s
 
-    print experiment_id,output_dir
+    
     if experiment_id == None or output_dir == None:
         usage()
         return
@@ -49,7 +49,7 @@ def process(experiment_id,output_dir,output_name_prefix,all_motifs,server_addres
     url_sub = 'get_annotated_topics'
     if all_motifs:
         url_sub = 'get_all_topics'
-    url = server_address + '/basicviz/{}/{}'.format(url_sub,experiment_id)
+    url = server_address + 'basicviz/{}/{}'.format(url_sub,experiment_id)
     print "Fetching from: {}".format(url)
     response = requests.get(url)
 
@@ -74,10 +74,13 @@ def process(experiment_id,output_dir,output_name_prefix,all_motifs,server_addres
                 writer.writerow(['#NAME ' + output_name_prefix + '_' +name])
             else:
                 writer.writerow(['#NAME ' + name])
-            writer.writerow(['#COMMENT ' + "Automatically generated from experiment {} from {}".format(experiment_id,server_address)])
-            writer.writerow(['#ANNOTATION ' + " ".join(annotation.encode('utf8').split(','))])
-            writer.writerow(['#SHORT_ANNOTATION ' + " ".join(short_annotation.encode('utf8').split(','))])
-            # writer.writerow([description])
+            writer.writerow(['#DESCRIPTION ' + "Automatically generated from experiment {} from {}".format(experiment_id,server_address)])
+
+            if annotation:
+                writer.writerow(['#ANNOTATION ' + " ".join(annotation.encode('utf8').split(','))])
+            if short_annotation:
+                writer.writerow(['#SHORT_ANNOTATION ' + " ".join(short_annotation.encode('utf8').split(','))])
+
             s = zip(spec[name].keys(),spec[name].values())
             s = sorted(s,key = lambda x: x[1],reverse = True)
             for f,i in s:
