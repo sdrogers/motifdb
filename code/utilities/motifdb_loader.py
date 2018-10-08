@@ -94,6 +94,7 @@ class MotifFilter(object):
         for spec in final_spec_list:
             output_spectra[spec] = self.input_spectra[spec]
             output_metadata[spec] = self.input_metadata[spec]
+        print "After merging, {} motifs remain".format(len(output_spectra))
         return output_spectra,output_metadata
 
     def compute_similarity(self,k,k2):
