@@ -81,13 +81,16 @@ class MotifFilter(object):
                     merge_list.append((spec,sim))
             if len(merge_list) > 0:
                 merge_data = []
+                spec_list = []
                 for spec,sim in merge_list:
+                    spec_list.append(spec)
                     print "Merging: {} and {} ({})".format(current_spec,spec,sim)
                     # chuck the merged motif into metadata so that we can find it later
                     merge_data.append((spec,self.input_spectra[spec],self.input_metadata[spec],sim))
                     pos = spec_names.index(spec)
                     del spec_names[pos]
-                self.input_metadata[current_spec]['merged'] = merge_data
+                # self.input_metadata[current_spec]['merged'] = merge_data
+                self.input_metadata[current_spec]['merged'] = ",".join(spec_list)
         
         output_spectra = {}
         output_metadata = {}
