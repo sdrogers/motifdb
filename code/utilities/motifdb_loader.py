@@ -4,7 +4,7 @@ import glob
 import os
 import numpy as np
 
-METADATA_FIELDS = ['COMMENT','NAME','ANNOTATION','SHORT_ANNOTATION']
+METADATA_FIELDS = ['comment','name','annotation','short_annotation']
 
 def load_db(db_list,db_path):
     # loads the dbs listed in the list
@@ -36,7 +36,7 @@ def parse_m2m(filename):
             if line.startswith('#'):
                 # it's some metadata
                 tokens = line.split()
-                key = tokens[0][1:]
+                key = tokens[0][1:].lower()
                 if key in METADATA_FIELDS:
                     new_value = " ".join(tokens[1:])
                     if not key in metadata:
