@@ -125,6 +125,7 @@ class FeatureMatcher(object):
         self.match()
         self.match(ftype='loss')
         self.augmented_features = {f:v for f in other_features}
+        self.bin_width = bin_width
 
     def match(self,ftype='fragment'):
         import bisect
