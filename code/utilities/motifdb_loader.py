@@ -123,7 +123,7 @@ class FeatureMatcher(object):
         self.other_features = other_features
         self.fmap = {}
         self.bin_width = bin_width
-        self.augmented_features = {f:v for f in other_features}
+        self.augmented_features = {f:v for f,v in other_features.items()}
 
         self.match()
         self.match(ftype='loss')
