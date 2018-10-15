@@ -143,24 +143,30 @@ class FeatureMatcher(object):
         other_min_mz = list(other_min_mz)
         other_max_mz = list(other_max_mz)
 
-        
+        exact_match = 0
+        new_ones = 0
+        overlap_match = 0
         for f in [f for f in self.db_features if f.startswith(ftype)]:
             if f in other_names:
                 self.fmap[f] = f;
+                exact_match += 1
             else:
                 fmz = float(f.split('_')[1])
                 if fmz < other_min_mz[0] or fmz > other_max_mz[-1]:
                     self.fmap[f] = f
                     self.augmented_features[f] = (fmz-self.bin_width/2,fmz+self.bin_width/2)
+                    new_ones += 1
                     continue
                 fpos = bisect.bisect_right(other_min_mz,fmz)
                 fpos -= 1
                 if fmz <= other_max_mz[fpos]:
                     self.fmap[f] = other_names[fpos]
+                    overlap_match += 1
                 else:
                     self.fmap[f] = f
                     self.augmented_features[f] = (fmz-self.bin_width/2,fmz+self.bin_width/2)
-
+                    new_ones += 1
+        print "Finished matching. {} exact matches, {} overlap matches, {} new features".format(exact_match,overlap_match,new_ones)
 
     def convert(self,dbspectra):
         for doc,spec in dbspectra.items():
