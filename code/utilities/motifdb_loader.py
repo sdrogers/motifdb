@@ -114,12 +114,13 @@ class MotifFilter(object):
 
 
 class FeatureMatcher(object):
-    def __init__(self,db_features,other_features):
+    def __init__(self,db_features,other_features,bin_width=0.005):
         self.db_features = db_features
         self.other_features = other_features
         self.fmap = {}
         self.match()
         self.match(ftype='loss')
+        self.augmented_features = {f:v for f in other_features}
 
     def match(self,ftype='fragment'):
         import bisect
@@ -142,14 +143,16 @@ class FeatureMatcher(object):
                 fmz = float(f.split('_')[1])
                 if fmz < other_min_mz[0] or fmz > other_max_mz[-1]:
                     self.fmap[f] = f
+                    self.augmented_features[f] = (fmz-self.bin_width/2,fmz+self.bin_width/2)
                     continue
                 fpos = bisect.bisect_right(other_min_mz,fmz)
                 fpos -= 1
                 if fmz <= other_max_mz[fpos]:
                     self.fmap[f] = other_names[fpos]
-                    print f,other_min_mz[fpos],other_max_mz[fpos]
                 else:
                     self.fmap[f] = f
+                    self.augmented_features[f] = (fmz-self.bin_width/2,fmz+self.bin_width/2)
+
 
     def convert(self,dbspectra):
         for doc,spec in dbspectra.items():
