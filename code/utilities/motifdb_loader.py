@@ -26,7 +26,11 @@ def load_db(db_list,db_path):
         motif_name = os.path.split(filename)[-1]
         spectra[motif_name],metadata[motif_name] = parse_m2m(filename)
 
-    return spectra,metadata
+    features = set()
+    for m,s in spectra.items():
+        for f in s:
+            features.add(f)
+    return spectra,metadata,features
 
 def parse_m2m(filename):
     metadata = {}
