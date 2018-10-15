@@ -166,7 +166,7 @@ class FeatureMatcher(object):
                     self.fmap[f] = f
                     self.augmented_features[f] = (fmz-self.bin_width/2,fmz+self.bin_width/2)
                     new_ones += 1
-        print "Finished matching. {} exact matches, {} overlap matches, {} new features".format(exact_match,overlap_match,new_ones)
+        print "Finished matching ({}). {} exact matches, {} overlap matches, {} new features".format(ftype,exact_match,overlap_match,new_ones)
 
     def convert(self,dbspectra):
         for doc,spec in dbspectra.items():
