@@ -168,6 +168,7 @@ class FeatureMatcher(object):
             for f,i in spec.items():
                 newspec[self.fmap[f]] = i
             dbspectra[doc] = newspec
+        return dbspectra
 
 
 
