@@ -111,3 +111,45 @@ class MotifFilter(object):
                     prod += intensity * intensity2
         i2 = sum([i**2 for i in self.input_spectra[k2].values()])
         return prod/(np.sqrt(i1)*np.sqrt(i2))
+
+
+class FeatureMatcher(object):
+    def __init__(self,db_features,other_features):
+        self.db_features = db_features
+        self.other_features = other_features
+        self.fmap = {}
+        self.match()
+        self.match(ftype='loss')
+
+    def match(self,ftype='fragment'):
+        import bisect
+        other_names = [f for f in self.other_features if f.startswith(ftype)]
+        other_min_mz = [self.other_features[f][0] for f in self.other_features if f.startswith(ftype)]
+        other_max_mz = [self.other_features[f][1] for f in self.other_features if f.startswith(ftype)]
+        
+        for f in [f for f in self.db_features if f.startswith(ftype)]:
+            if f in other_names:
+                self.fmap[f] = f;
+            else:
+                fmz = float(f.split('_')[1])
+                if fmz < other_min_mz[0] or fmz > other_max_mz[-1]:
+                    self.fmap[f] = f
+                    continue
+                fpos = bisect.bisect_right(other_min_mz,fmz)
+                fpos -= 1
+                if fmz <= other_max_mz[fpos]:
+                    self.fmap[f] = other_names[fpos]
+                    print f,other_min_mz[fpos],other_max_mz[fpos]
+                else:
+                    self.fmap[f] = f
+
+    def convert(self,dbspectra):
+        for doc,spec in dbspectra.items():
+            newspec = {}
+            for f,i in spec.items():
+                newspec[self.fmap[f]] = i
+            dbspectra[doc] = newspec
+
+
+
+
